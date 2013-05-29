@@ -1,0 +1,1 @@
+c:\bginfo\bginfo.exe c:\bginfo\myBGinfo.bgi /timer:0 /accepteula
